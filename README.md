@@ -1,6 +1,6 @@
 # Setup Open Data Cube (ODC) with Docker 🛰
 
-This repository contains step-by-step instructions and resources to set up Open Data Cube (ODC) using Docker. Open Data Cube enables efficient handling and analysis of large geospatial datasets. For detail tutorial, please refer to our notion or [Tutorial.pdf](https://github.com/NTU-CompHydroMet-Lab/OpenDataCube/blob/main/Tutorial.pdf) in the repo: https://chingchunchou.notion.site/Setup-ODC-with-Docker-ba965c73e071492a80d2f5a302a1d374
+This repository contains step-by-step instructions and resources to set up Open Data Cube (ODC) using Docker. Open Data Cube enables efficient handling and analysis of large geospatial datasets. For detail tutorial, please refer to [our ODC notion](https://chingchunchou.notion.site/Setup-ODC-with-Docker-ba965c73e071492a80d2f5a302a1d374) or [Tutorial.pdf](https://github.com/NTU-CompHydroMet-Lab/OpenDataCube/blob/main/Tutorial.pdf) in the repo.
 
 ## Table of Contents
 - [What is Docker?](#what-is-docker)
